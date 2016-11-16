@@ -1,0 +1,30 @@
+{
+  "name": "swaptional",
+  "version": "1.0.0",
+  "description": "Traverse nested objects returning values by key. Optionally swap, replace, values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devappended/swaptional.git"
+  },
+  "keywords": [
+    "string",
+    "object",
+    "nested",
+    "find",
+    "replace",
+    "traverse",
+    "search",
+    "pattern",
+    "match"
+  ],
+  "author": "Steven Cedeño @devappended",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devappended/swaptional/issues"
+  },
+  "homepage": "https://github.com/devappended/swaptional#readme"
+}
